@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+##
 # nginx - this script starts and stops the nginx daemin
 # Taken from http://www.hikaro.com
 # chkconfig:   - 85 15
